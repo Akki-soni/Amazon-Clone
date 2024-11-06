@@ -40,7 +40,7 @@ open index.html
 
 ## 🌟 Screenshots
 
-![Amazon-Clone_Screenshot]()
+![Amazon-Clone_Screenshot](/Amazon_Screenshot.png)
 
 ## 🔗 Live Demo
 
