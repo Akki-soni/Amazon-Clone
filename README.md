@@ -44,7 +44,7 @@ open index.html
 
 ## 🔗 Live Demo
 
-[View Live Demo](https://amazon-clone-roan-eta.vercel.app/)
+[View Live Demo](https://amazon-clone-lake-theta.vercel.app/)
 
 ## 🤝 Contributing
 
